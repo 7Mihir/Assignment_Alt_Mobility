@@ -16,3 +16,11 @@ Visualize cohort retention in a heatmap format.
 Extract insights to support business decisions on engagement, payment optimization, and growth.
 
 
+Cohort Retention Heatmap: Illustrates how many users from each monthly cohort returned in future months.
+![image alt](https://github.com/7Mihir/Assignment_Alt_Mobility/blob/main/Cohort%20retention%20heap%20map.png?raw=true)
+
+
+
+
+
+
